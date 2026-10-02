@@ -186,8 +186,6 @@ button:hover {
     font-size: 15px;
 }
 
-/* Responsive */
-
 @media (max-width: 650px) {
     .container {
         padding: 20px;
